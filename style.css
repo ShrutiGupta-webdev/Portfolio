@@ -1,0 +1,22 @@
+body{
+   background-color: #EAF6F6;
+      margin-right: auto; }
+hr {
+  margin-right: 50%;
+  background-color: white;
+  border-style: none;
+  height: 4px;
+  width: 50%;
+}
+img {
+  height: 10%;
+    }
+.circular--square {
+border-radius: 50%;
+}
+table {margin-top:inherit;}
+h1 { color: #66BFBF}
+h3 { color: #66BFBF}
+.bgcolor{
+  background-color: white;
+}
